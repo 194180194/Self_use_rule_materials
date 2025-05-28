@@ -65,14 +65,5 @@ payload:
   - cdn.usefathom.com
   - +.anthropic.com
   - +.claude.ai
-  - '1.0.1.0/24',no-resolve
-  - '1.0.2.0/23',no-resolve
-  - '1.0.8.0/21',no-resolve
-  - '1.0.32.0/19',no-resolve
-  - '1.1.0.0/24',no-resolve
-  - '1.1.2.0/23',no-resolve
-  - '1.1.4.0/22',no-resolve
-  - '1.1.8.0/21',no-resolve
-  - '1.1.16.0/20',no-resolve
-  - '24.199.123.28/32',no-resolve
-  - '64.23.132.171/32',no-resolve
+  - '24.199.123.28/32',
+  - '64.23.132.171/32',
